@@ -1,0 +1,4 @@
+torch==2.9.1+cu126
+torchvision==0.24.1+cu126
+fastapi==0.124.4
+pillow==12.0.0
